@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lynxzzz
 - 🎓 I'm a school student 
 - 👀 I’m interested in gaming,coding and astrophysics and many more things
-- 🌱 I’m currently learning python (a beginner) 
+- 🌱 I’m currently learning python
 - 📫 How to reach me (Discord : Lynx.#6635)
 
 <!---
