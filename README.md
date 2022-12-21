@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @Lynxzzz
-- 👀 I like to code,spend time on problems,vibe,and game sometimes
+- 👀 I like to code, spend time on problems, vibe, and game sometimes
 - 🌱 I’m currently learning py. and html-css
 - Discord - Heisenburger#6635
 
