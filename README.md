@@ -1,7 +1,7 @@
-- 👋 Hey, I’m @Lynxzzz
+- 👋 Hey, I’m @Paradoxx
 - 👀 I like to code, spend time on problems, vibe, and game sometimes
 - 🌱 I’m currently learning py. and html-css
-- Discord - Heisenburger#6635
+- Discord - Paradoxx#6635
 
 <!---
 Lynxzzz/Lynxzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
